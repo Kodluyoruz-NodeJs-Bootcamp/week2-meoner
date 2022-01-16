@@ -6,6 +6,6 @@
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
+$ cd ../week2-meoner-main
 $ npm install
 $ npm start
